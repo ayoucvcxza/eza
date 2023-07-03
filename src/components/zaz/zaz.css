@@ -1,0 +1,38 @@
+.containnerrrr{
+    height: 100vh;
+    position: relative;
+   
+}
+
+.mini-contaio{
+   margin-top: 4cm;
+    background-color: blue;
+    height: 8cm;
+    display: flex;
+}
+
+.hh1{
+    padding: 40px;
+    color: yellow;
+}
+
+.CONCONN{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 80cm;
+
+}
+
+
+
+
+
+.hh2 {
+    padding: 40px;
+    color: yellow;
+
+}
+
+

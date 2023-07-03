@@ -1,0 +1,53 @@
+.c {
+    height: 100vh;
+    position: relative;
+    background-color: yellow;
+}
+
+.c-bg {
+    width: 20px;
+    height: 100%;
+    background-color: blue;
+    position: absolute;
+}
+
+.c-wrapper {
+    padding: 50px;
+    display: flex;
+}
+
+
+.c-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+
+.c-desc{
+    font-weight: 200;
+}
+
+form{
+    margin-top: 20px;
+}
+
+input{
+    width: 50%;
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 10px 0px;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+textarea{
+    width: 100%;
+    margin: 10px 6px;
+    font-size: 14px;
+    padding-left: 10px;
+}

@@ -1,0 +1,69 @@
+.main-w{
+   display: flex;
+   align-items: center;
+    
+}
+
+
+.ing{height: 600px;}
+
+.containn{
+   background-color: yellow;
+}
+.containnerrrrr{
+   background-color: blue;
+}
+
+.containnerrrrrr{
+   background-color:rgb(8, 136, 255);
+}
+.containnerrrr{
+   background-color: blue;
+}
+
+.containner {
+   width: 90%;
+   height: 100vh;
+   
+
+}
+.ggh{height: 500px;
+
+border-radius: 20px;}
+
+
+
+.ilg{
+   height: 500px;
+   margin-left: 2cm;
+}
+
+.inner-imageeee{
+   padding: 0px;
+   padding-left:50px;
+}
+
+.containnerrr{
+   height: 100vh;
+}
+.inner-image{
+   padding: 40px;
+}
+.inner-imagee{
+   padding: 0px;
+}
+.inner-textt{
+   padding: 20px;
+}
+
+.inner-text h2{
+ font-size: 50px;
+ color: rgb(235, 235, 27);
+ 
+ 
+}
+.imgg{
+   width: 700px;
+   height: 400px;
+   margin-top: 10px;
+}
